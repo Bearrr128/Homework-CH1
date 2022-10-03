@@ -1,0 +1,7 @@
+import java.io.BufferedReader;
+
+public class test_p28 {
+	public static void  main(String[] args)throws IOException{
+		
+	}
+}
